@@ -33,7 +33,7 @@ st.markdown("""
 with st.sidebar:
     st.image("https://img.icons8.com/fluent/100/000000/school.png", width=80)
     st.title("Proje Bilgileri")
-    st.info("Bu yapay zeka asistanı, Kanuni MTAL öğrencileri için TÜBİTAK projesi kapsamında geliştirilmiştir.")
+    st.info("Bu yapay zeka asistanı, Kanuni MTAL için TÜBİTAK projesi kapsamında geliştirilmiştir.")
     st.markdown("---")
     st.subheader("💡 İpuçları")
     st.write("- '9A yarın ilk ders ne?'")
