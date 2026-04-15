@@ -39,8 +39,7 @@ with st.sidebar:
     st.write("- '9A yarın ilk ders ne?'")
     st.write("- '10B bugün 3. ders nerede?'")
     st.write("- 'Ders araları kaç dakika?'")
-    st.markdown("---")
-    st.caption("Geliştirici: Muhammed Özcan Erdem")
+    
 
 # --- 3. API VE MODEL KURULUMU ---
 try:
