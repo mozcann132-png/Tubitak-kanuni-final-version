@@ -1,0 +1,1047 @@
+﻿Sinif;Gun;Girilen Ders Saati;Ders;Ogretmen;Yer
+SINIF 9-A;Pazartesi;1;Programlama Temelleri;Umut Türk;BİL1,BİL2
+SINIF 9-A;Pazartesi;2;Programlama Temelleri;Umut Türk;BİL1,BİL2
+SINIF 9-A;Pazartesi;3;Programlama Temelleri;Umut Türk;BİL1,BİL2
+SINIF 9-A;Pazartesi;4;Programlama Temelleri;Umut Türk;BİL1,BİL2
+SINIF 9-A;Pazartesi;5;Bilgisayar Tasarım Uygulamaları;Umut Türk;BİL1,BİL2
+SINIF 9-A;Pazartesi;6;Bilgisayar Tasarım Uygulamaları;Umut Türk;BİL1,BİL2
+SINIF 9-A;Pazartesi;7;Bilişim Teknolojileri Temelleri;Umut Türk;BİL1,BİL2
+SINIF 9-A;Pazartesi;8;Bilişim Teknolojileri Temelleri;Umut Türk;BİL1,BİL2
+SINIF 9-A;Pazartesi;9;Bilişim Teknolojileri Temelleri;Umut Türk;BİL1,BİL2
+SINIF 9-A;Pazartesi;10;Seçmeli Temel Dini Bilgiler;Yasemin Şahin;2-D12
+SINIF 9-A;Salı;1;Mesleki Gelişim Atölyesi;Sultan Perincek;1-D09,BİL2
+SINIF 9-A;Salı;2;Mesleki Gelişim Atölyesi;Sultan Perincek;2-D12
+SINIF 9-A;Salı;3;Matematik;Hüseyin Metin;2-D12
+SINIF 9-A;Salı;4;Seçmeli Adabı Muaşeret;Tülin Kaya;2-D12
+SINIF 9-A;Salı;5;İngilizce;Aylin Güneri;2-D12
+SINIF 9-A;Salı;6;İngilizce;Aylin Güneri;2-D12
+SINIF 9-A;Salı;7;Türk Dili ve Edebiyatı;Tülin Kaya;2-D12
+SINIF 9-A;Salı;8;Türk Dili ve Edebiyatı;Tülin Kaya;2-D12
+SINIF 9-A;Salı;9;Türk Dili ve Edebiyatı;Tülin Kaya;2-D12
+SINIF 9-A;Salı;10;Matematik;Hüseyin Metin;2-D12
+SINIF 9-A;Çarşamba;1;Biyoloji;Kadriye Akköseoğlu;2-D12
+SINIF 9-A;Çarşamba;2;Biyoloji;Kadriye Akköseoğlu;2-D12
+SINIF 9-A;Çarşamba;3;Seçmeli Demokresi ve İnsan Hakları;Şenol Erdem;2-D12
+SINIF 9-A;Çarşamba;4;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D12
+SINIF 9-A;Çarşamba;5;Türk Dili ve Edebiyatı;Tülin Kaya;2-D12
+SINIF 9-A;Çarşamba;6;Matematik;Hüseyin Metin;2-D12
+SINIF 9-A;Çarşamba;7;Matematik;Hüseyin Metin;2-D12
+SINIF 9-A;Çarşamba;8;Matematik;Hüseyin Metin;2-D12
+SINIF 9-A;Perşembe;1;Fizik;Belkız Hamedoğlu;2-D12
+SINIF 9-A;Perşembe;2;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D12
+SINIF 9-A;Perşembe;3;Seçmeli Metin Tahlilleri;Tülin Kaya;2-D12
+SINIF 9-A;Perşembe;4;Seçmeli Metin Tahlilleri;Tülin Kaya;2-D12
+SINIF 9-A;Perşembe;5;Coğrafya;Funda Kapusuzoğlu;2-D12
+SINIF 9-A;Perşembe;6;Coğrafya;Funda Kapusuzoğlu;2-D12
+SINIF 9-A;Cuma;1;Tarih;Orhan Gülbaşar;2-D12
+SINIF 9-A;Cuma;2;Tarih;Orhan Gülbaşar;2-D12
+SINIF 9-A;Cuma;3;Kimya;Ayşe Banu Gülhan;2-D12
+SINIF 9-A;Cuma;4;Kimya;Ayşe Banu Gülhan;2-D12
+SINIF 9-A;Cuma;5;Türk Dili ve Edebiyatı;Tülin Kaya;2-D12
+SINIF 9-A;Cuma;6;İngilizce;Aylin Güneri;2-D12
+SINIF 9-A;Cuma;7;İngilizce;Aylin Güneri;2-D12
+SINIF 9-A;Cuma;8;Fizik;Belkız Hamedoğlu;2-D12
+SINIF 9-A;Cuma;9;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;2-D12
+SINIF 9-A;Cuma;10;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;2-D12
+SINIF 9-B;Pazartesi;1;Kimya;Özlem Şeker;2-D12
+SINIF 9-B;Pazartesi;2;Kimya;Özlem Şeker;2-D12
+SINIF 9-B;Pazartesi;3;Seçmeli Demokresi ve İnsan Hakları;Şenol Erdem;2-D12
+SINIF 9-B;Pazartesi;4;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D12
+SINIF 9-B;Pazartesi;5;Mesleki Gelişim Atölyesi;Zervi Pişgin;1-D05
+SINIF 9-B;Pazartesi;6;Mesleki Gelişim Atölyesi;Zervi Pişgin;1-D05
+SINIF 9-B;Pazartesi;7;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D12
+SINIF 9-B;Pazartesi;8;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D12
+SINIF 9-B;Pazartesi;9;Seçmeli Adabı Muaşeret;Nurgül Başkurt Yörük;2-D12
+SINIF 9-B;Salı;1;İngilizce;Aylin Güneri;2-D13
+SINIF 9-B;Salı;2;İngilizce;Aylin Güneri;2-D13
+SINIF 9-B;Salı;3;Matematik;Belkız Hamedoğlu;2-D13
+SINIF 9-B;Salı;4;Matematik;Belkız Hamedoğlu;2-D13
+SINIF 9-B;Salı;5;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D13
+SINIF 9-B;Salı;6;Fizik;Belkız Hamedoğlu;2-D13
+SINIF 9-B;Salı;7;İngilizce;Aylin Güneri;2-D13
+SINIF 9-B;Salı;8;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D13
+SINIF 9-B;Salı;9;Seçmeli Metin Tahlilleri;Mehtap Özcan;2-D13
+SINIF 9-B;Salı;10;Seçmeli Metin Tahlilleri;Mehtap Özcan;2-D13
+SINIF 9-B;Çarşamba;1;Programlama Temelleri;Emel Yoldaş;BİL2,BİL5
+SINIF 9-B;Çarşamba;2;Programlama Temelleri;Emel Yoldaş;BİL2,BİL5
+SINIF 9-B;Çarşamba;3;Programlama Temelleri;Emel Yoldaş;BİL2,BİL5
+SINIF 9-B;Çarşamba;4;Programlama Temelleri;Emel Yoldaş;BİL2,BİL5
+SINIF 9-B;Çarşamba;5;Bilgisayar Tasarım Uygulamaları;Hakan Akdeniz;BİL2,BİL5
+SINIF 9-B;Çarşamba;6;Bilgisayar Tasarım Uygulamaları;Hakan Akdeniz;BİL2,BİL5
+SINIF 9-B;Çarşamba;7;Bilişim Teknolojileri Temelleri;Umut Türk;BİL2,BİL5
+SINIF 9-B;Çarşamba;8;Bilişim Teknolojileri Temelleri;Umut Türk;BİL2,BİL5
+SINIF 9-B;Çarşamba;9;Bilişim Teknolojileri Temelleri;Umut Türk;BİL2,BİL5
+SINIF 9-B;Perşembe;1;Ders Yok;Ders Yok;Ders Yok
+SINIF 9-B;Perşembe;2;Matematik;Belkız Hamedoğlu;2-D13
+SINIF 9-B;Perşembe;3;Biyoloji;Hakan Kaya;2-D13
+SINIF 9-B;Perşembe;4;Biyoloji;Hakan Kaya;2-D13
+SINIF 9-B;Perşembe;5;Tarih;Emine Gökçe Arslan;2-D13
+SINIF 9-B;Perşembe;6;Tarih;Emine Gökçe Arslan;2-D13
+SINIF 9-B;Perşembe;7;Matematik;Belkız Hamedoğlu;2-D12
+SINIF 9-B;Perşembe;8;Matematik;Belkız Hamedoğlu;2-D12
+SINIF 9-B;Perşembe;9;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D13
+SINIF 9-B;Cuma;1;Seçmeli Temel Dini Bilgiler;Betül Erbay;2-D13
+SINIF 9-B;Cuma;2;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D13
+SINIF 9-B;Cuma;3;Coğrafya;Funda Kapusuzoğlu;2-D13
+SINIF 9-B;Cuma;4;Coğrafya;Funda Kapusuzoğlu;2-D13
+SINIF 9-B;Cuma;5;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;KON
+SINIF 9-B;Cuma;6;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;KON
+SINIF 9-B;Cuma;7;Fizik;Belkız Hamedoğlu;2-D13
+SINIF 9-B;Cuma;8;İngilizce;Aylin Güneri;2-D13
+SINIF 9-C;Pazartesi;1;İngilizce;Aylin Güneri;2-D13
+SINIF 9-C;Pazartesi;2;İngilizce;Aylin Güneri;2-D13
+SINIF 9-C;Pazartesi;3;Seçmeli Temel Dini Bilgiler;Yasemin Şahin;2-D13
+SINIF 9-C;Pazartesi;4;Matematik;Semiha Halis;2-D13
+SINIF 9-C;Pazartesi;5;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D13
+SINIF 9-C;Pazartesi;6;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D13
+SINIF 9-C;Pazartesi;7;İngilizce;Aylin Güneri;2-D14
+SINIF 9-C;Salı;1;Tarih;Orhan Gülbaşar;2-D14
+SINIF 9-C;Salı;2;Tarih;Orhan Gülbaşar;2-D14
+SINIF 9-C;Salı;3;Seçmeli Metin Tahlilleri;Mehtap Özcan;2-D14
+SINIF 9-C;Salı;4;Seçmeli Metin Tahlilleri;Mehtap Özcan;2-D14
+SINIF 9-C;Salı;5;Coğrafya;Funda Kapusuzoğlu;2-D14
+SINIF 9-C;Salı;6;Coğrafya;Funda Kapusuzoğlu;2-D14
+SINIF 9-C;Salı;7;Mesleki Gelişim Atölyesi;Sultan Perincek;1-D08,BİL2
+SINIF 9-C;Salı;8;Mesleki Gelişim Atölyesi;Sultan Perincek;1-D08,BİL2
+SINIF 9-C;Çarşamba;1;Seçmeli Demokresi ve İnsan Hakları;Şenol Erdem;2-D13
+SINIF 9-C;Çarşamba;2;Fizik;Belkız Hamedoğlu;2-D13
+SINIF 9-C;Çarşamba;3;Matematik;Semiha Halis;2-D13
+SINIF 9-C;Çarşamba;4;Matematik;Semiha Halis;2-D13
+SINIF 9-C;Çarşamba;5;Biyoloji;Kadriye Akköseoğlu;2-D13
+SINIF 9-C;Çarşamba;6;Biyoloji;Kadriye Akköseoğlu;2-D13
+SINIF 9-C;Çarşamba;7;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D13
+SINIF 9-C;Çarşamba;8;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D13
+SINIF 9-C;Çarşamba;9;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D13
+SINIF 9-C;Perşembe;1;Programlama Temelleri;Fuat Süzer;BİL2,BİL3
+SINIF 9-C;Perşembe;2;Programlama Temelleri;Fuat Süzer;BİL2,BİL3
+SINIF 9-C;Perşembe;3;Programlama Temelleri;Fuat Süzer;BİL2,BİL3
+SINIF 9-C;Perşembe;4;Programlama Temelleri;Fuat Süzer;BİL2,BİL3
+SINIF 9-C;Perşembe;5;Bilgisayar Tasarım Uygulamaları;Fuat Süzer;BİL2,BİL5
+SINIF 9-C;Perşembe;6;Bilgisayar Tasarım Uygulamaları;Fuat Süzer;BİL2,BİL5
+SINIF 9-C;Perşembe;7;Bilişim Teknolojileri Temelleri;Emel Yoldaş;BİL2,BİL5
+SINIF 9-C;Perşembe;8;Bilişim Teknolojileri Temelleri;Emel Yoldaş;BİL2,BİL5
+SINIF 9-C;Perşembe;9;Bilişim Teknolojileri Temelleri;Emel Yoldaş;BİL2,BİL5
+SINIF 9-C;Perşembe;10;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D13
+SINIF 9-C;Cuma;1;Seçmeli Adabı Muaşeret;Tülin Aşutli;2-D14
+SINIF 9-C;Cuma;2;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;2-D14
+SINIF 9-C;Cuma;3;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;2-D14
+SINIF 9-C;Cuma;4;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D14
+SINIF 9-C;Cuma;5;İngilizce;Aylin Güneri;2-D14
+SINIF 9-C;Cuma;6;Fizik;Belkız Hamedoğlu;2-D14
+SINIF 9-C;Cuma;7;Kimya;Ayşe Banu Gülhan;2-D14
+SINIF 9-C;Cuma;8;Kimya;Ayşe Banu Gülhan;2-D14
+SINIF 9-C;Cuma;9;Matematik;Semiha Halis;2-D14
+SINIF 9-C;Cuma;10;Matematik;Semiha Halis;2-D14
+SINIF 9-D;Pazartesi;1;Matematik;Semiha Halis;2-D14
+SINIF 9-D;Pazartesi;2;Matematik;Semiha Halis;2-D14
+SINIF 9-D;Pazartesi;3;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D14
+SINIF 9-D;Pazartesi;4;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;2-D14
+SINIF 9-D;Pazartesi;5;Seçmeli Demokresi ve İnsan Hakları;Şenol Erdem;2-D14
+SINIF 9-D;Pazartesi;6;İngilizce;Neşe Saraçoğlu;2-D14
+SINIF 9-D;Pazartesi;7;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;2-D14
+SINIF 9-D;Pazartesi;8;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;2-D14
+SINIF 9-D;Pazartesi;9;Seçmeli Metin Tahlilleri;Mehtap Özcan;2-D14
+SINIF 9-D;Pazartesi;10;Seçmeli Metin Tahlilleri;Mehtap Özcan;2-D14
+SINIF 9-D;Salı;1;Biyoloji;Gül Akın;2-D15
+SINIF 9-D;Salı;2;Biyoloji;Gül Akın;2-D15
+SINIF 9-D;Salı;3;Seçmeli Temel Dini Bilgiler;Betül Erbay;2-D15
+SINIF 9-D;Salı;4;Tarih;Orhan Gülbaşar;2-D15
+SINIF 9-D;Salı;5;Tarih;Orhan Gülbaşar;2-D15
+SINIF 9-D;Salı;6;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D15
+SINIF 9-D;Salı;7;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D15
+SINIF 9-D;Salı;8;İngilizce;Neşe Saraçoğlu;2-D14
+SINIF 9-D;Salı;9;İngilizce;Neşe Saraçoğlu;2-D14
+SINIF 9-D;Salı;10;İngilizce;Neşe Saraçoğlu;2-D14
+SINIF 9-D;Çarşamba;1;Matematik;Semiha Halis;2-D14
+SINIF 9-D;Çarşamba;2;Matematik;Semiha Halis;2-D14
+SINIF 9-D;Çarşamba;3;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D14
+SINIF 9-D;Çarşamba;4;Türk Dili ve Edebiyatı;Nurgül Başkurt Yörük;2-D14
+SINIF 9-D;Çarşamba;5;Fizik;Belkız Hamedoğlu;2-D14
+SINIF 9-D;Çarşamba;6;Seçmeli Adabı Muaşeret;Nurgül Başkurt Yörük;2-D14
+SINIF 9-D;Çarşamba;7;Fizik;Belkız Hamedoğlu;2-D14
+SINIF 9-D;Çarşamba;8;Matematik;Semiha Halis;2-D14
+SINIF 9-D;Perşembe;1;Kimya;Özlem Şeker;2-D14
+SINIF 9-D;Perşembe;2;Kimya;Özlem Şeker;2-D14
+SINIF 9-D;Perşembe;3;Coğrafya;Funda Kapusuzoğlu;2-D14
+SINIF 9-D;Perşembe;4;Coğrafya;Funda Kapusuzoğlu;2-D14
+SINIF 9-D;Perşembe;5;Mesleki Gelişim Atölyesi;Emel Yoldaş;1-D05
+SINIF 9-D;Perşembe;6;Mesleki Gelişim Atölyesi;Emel Yoldaş;1-D05
+SINIF 9-D;Perşembe;7;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;2-D14
+SINIF 9-D;Cuma;1;Programlama Temelleri;Mehtap Mutlu Bilgin;BİL2,BİL5
+SINIF 9-D;Cuma;2;Programlama Temelleri;Mehtap Mutlu Bilgin;BİL2,BİL5
+SINIF 9-D;Cuma;3;Programlama Temelleri;Mehtap Mutlu Bilgin;BİL2,BİL5
+SINIF 9-D;Cuma;4;Programlama Temelleri;Mehtap Mutlu Bilgin;BİL2,BİL5
+SINIF 9-D;Cuma;5;Bilgisayar Tasarım Uygulamaları;Emel Yoldaş;BİL2,BİL5
+SINIF 9-D;Cuma;6;Bilgisayar Tasarım Uygulamaları;Emel Yoldaş;BİL2,BİL5
+SINIF 9-D;Cuma;7;Bilişim Teknolojileri Temelleri;Mehtap Mutlu Bilgin;BİL2,BİL5
+SINIF 9-D;Cuma;8;Bilişim Teknolojileri Temelleri;Mehtap Mutlu Bilgin;BİL2,BİL5
+SINIF 9-D;Cuma;9;Bilişim Teknolojileri Temelleri;Mehtap Mutlu Bilgin;BİL2,BİL5
+SINIF 9-E;Pazartesi;1;Biyoloji;Gül Akın;2-D15
+SINIF 9-E;Pazartesi;2;Biyoloji;Gül Akın;2-D15
+SINIF 9-E;Pazartesi;3;İngilizce;Neşe Saraçoğlu;2-D15
+SINIF 9-E;Pazartesi;4;İngilizce;Neşe Saraçoğlu;2-D15
+SINIF 9-E;Pazartesi;5;Matematik;Gülhan Karaman;2-D15
+SINIF 9-E;Pazartesi;6;Matematik;Gülhan Karaman;2-D15
+SINIF 9-E;Pazartesi;7;Matematik;Gülhan Karaman;2-D15
+SINIF 9-E;Salı;1;Seçmeli Metin Tahlilleri;Mehtap Özcan;1-D03
+SINIF 9-E;Salı;2;Seçmeli Metin Tahlilleri;Mehtap Özcan;1-D03
+SINIF 9-E;Salı;3;Coğrafya;Funda Kapusuzoğlu;2-D16
+SINIF 9-E;Salı;4;Coğrafya;Funda Kapusuzoğlu;2-D16
+SINIF 9-E;Salı;5;Fizik;Belkız Hamedoğlu;2-D16
+SINIF 9-E;Salı;6;Türk Dili ve Edebiyatı;Tülin Kaya;2-D16
+SINIF 9-E;Salı;7;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;KON
+SINIF 9-E;Salı;8;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;KON
+SINIF 9-E;Çarşamba;1;Fizik;Belkız Hamedoğlu;2-D15
+SINIF 9-E;Çarşamba;2;Seçmeli Demokresi ve İnsan Hakları;Şenol Erdem;2-D15
+SINIF 9-E;Çarşamba;3;Türk Dili ve Edebiyatı;Tülin Kaya;2-D15
+SINIF 9-E;Çarşamba;4;Türk Dili ve Edebiyatı;Tülin Kaya;2-D15
+SINIF 9-E;Çarşamba;5;İngilizce;N.ŞRÇ;2-D15
+SINIF 9-E;Çarşamba;6;İngilizce;Neşe Saraçoğlu;2-D15
+SINIF 9-E;Çarşamba;7;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;2-D15
+SINIF 9-E;Çarşamba;8;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;2-D15
+SINIF 9-E;Çarşamba;9;Mesleki Gelişim Atölyesi;Devrim Çetinkaya;2-D15
+SINIF 9-E;Çarşamba;10;Mesleki Gelişim Atölyesi;Devrim Çetinkaya;2-D15
+SINIF 9-E;Perşembe;1;Tarih;Orhan Gülbaşar;2-D15
+SINIF 9-E;Perşembe;2;Tarih;Orhan Gülbaşar;2-D15
+SINIF 9-E;Perşembe;3;Kimya;Ayşe Banu Gülhan;2-D15
+SINIF 9-E;Perşembe;4;Kimya;Ayşe Banu Gülhan;2-D15
+SINIF 9-E;Perşembe;5;Seçmeli Adabı Muaşeret;Tülin Aşutli;2-D15
+SINIF 9-E;Perşembe;6;Türk Dili ve Edebiyatı;Tülin Kaya;2-D15
+SINIF 9-E;Perşembe;7;Türk Dili ve Edebiyatı;Tülin Kaya;2-D15
+SINIF 9-E;Perşembe;8;Seçmeli Temel Dini Bilgiler;Yasemin Şahin;2-D15
+SINIF 9-E;Perşembe;9;Matematik;Gülhan Karaman;2-D15
+SINIF 9-E;Perşembe;10;Matematik;Gülhan Karaman;2-D15
+SINIF 9-E;Cuma;1;Temel Elektronik Atölyesi;Ali Başaran;EL4,EL5
+SINIF 9-E;Cuma;2;Temel Elektronik Atölyesi;Ali Başaran;EL4,EL5
+SINIF 9-E;Cuma;3;Temel Elektronik Atölyesi;Ali Başaran;EL4,EL5
+SINIF 9-E;Cuma;4;Temel Elektronik Atölyesi;Ali Başaran;EL4,EL5
+SINIF 9-E;Cuma;5;Temel Elektronik Atölyesi;Ali Başaran;EL4,EL5
+SINIF 9-E;Cuma;6;Temel Elektronik Atölyesi;Ali Başaran;EL4,EL5
+SINIF 9-E;Cuma;7;Temel Elektronik Atölyesi;Ali Başaran;EL4,EL5
+SINIF 9-E;Cuma;8;Temel Elektronik Atölyesi;Ali Başaran;EL4,EL5
+SINIF 9-E;Cuma;9;Temel Elektronik Atölyesi;Ali Başaran;EL4,EL5
+SINIF 9-F;Pazartesi;1;Türk Dili ve Edebiyatı;Tülin Aşutli;2-D16
+SINIF 9-F;Pazartesi;2;Seçmeli Adabı Muaşeret;Tülin Aşutli;2-D16
+SINIF 9-F;Pazartesi;3;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;KON
+SINIF 9-F;Pazartesi;4;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;KON
+SINIF 9-F;Pazartesi;5;Matematik;Semiha Halis;2-D16
+SINIF 9-F;Pazartesi;6;Matematik;Semiha Halis;2-D16
+SINIF 9-F;Pazartesi;7;Seçmeli Metin Tahlilleri;Mehtap Özcan;2-D13
+SINIF 9-F;Pazartesi;8;Seçmeli Metin Tahlilleri;Mehtap Özcan;2-D13
+SINIF 9-F;Salı;1;Temel Elektronik Atölyesi;Ayşe Göze Deveci;EL4,EL5
+SINIF 9-F;Salı;2;Temel Elektronik Atölyesi;Ayşe Göze Deveci;EL4,EL5
+SINIF 9-F;Salı;3;Temel Elektronik Atölyesi;Ayşe Göze Deveci;EL4,EL5
+SINIF 9-F;Salı;4;Temel Elektronik Atölyesi;Ayşe Göze Deveci;EL4,EL5
+SINIF 9-F;Salı;5;Temel Elektronik Atölyesi;Ayşe Göze Deveci;EL4,EL5
+SINIF 9-F;Salı;6;Temel Elektronik Atölyesi;Ayşe Göze Deveci;EL4,EL5
+SINIF 9-F;Salı;7;Temel Elektronik Atölyesi;Ayşe Göze Deveci;EL4,EL5
+SINIF 9-F;Salı;8;Temel Elektronik Atölyesi;Ayşe Göze Deveci;EL4,EL5
+SINIF 9-F;Salı;9;Temel Elektronik Atölyesi;Ayşe Göze Deveci;EL4,EL5
+SINIF 9-F;Çarşamba;1;Mesleki Gelişim Atölyesi;Özlem Şahan;2-D16
+SINIF 9-F;Çarşamba;2;Mesleki Gelişim Atölyesi;Özlem Şahan;2-D16
+SINIF 9-F;Çarşamba;3;Biyoloji;Kadriye Akköseoğlu;2-D16
+SINIF 9-F;Çarşamba;4;Biyoloji;Kadriye Akköseoğlu;2-D16
+SINIF 9-F;Çarşamba;5;Matematik;Semiha Halis;2-D16
+SINIF 9-F;Çarşamba;6;Matematik;Semiha Halis;2-D16
+SINIF 9-F;Çarşamba;7;İngilizce;Neşe Saraçoğlu;2-D16
+SINIF 9-F;Çarşamba;8;İngilizce;Neşe Saraçoğlu;2-D16
+SINIF 9-F;Çarşamba;9;İngilizce;Neşe Saraçoğlu;2-D16
+SINIF 9-F;Perşembe;1;Coğrafya;Funda Kapusuzoğlu;2-D16
+SINIF 9-F;Perşembe;2;Coğrafya;Funda Kapusuzoğlu;2-D16
+SINIF 9-F;Perşembe;3;Fizik;Belkız Hamedoğlu;2-D16
+SINIF 9-F;Perşembe;4;Kimya;Özlem Şeker;2-D16
+SINIF 9-F;Perşembe;5;Kimya;Özlem Şeker;2-D16
+SINIF 9-F;Perşembe;6;Türk Dili ve Edebiyatı;Tülin Aşutli;2-D16
+SINIF 9-F;Perşembe;7;Türk Dili ve Edebiyatı;Tülin Aşutli;2-D16
+SINIF 9-F;Perşembe;8;Türk Dili ve Edebiyatı;Tülin Aşutli;2-D16
+SINIF 9-F;Perşembe;9;Seçmeli Temel Dini Bilgiler;Yasemin Şahin;2-D16
+SINIF 9-F;Cuma;1;Fizik;Belkız Hamedoğlu;2-D16
+SINIF 9-F;Cuma;2;Türk Dili ve Edebiyatı;Tülin Aşutli;2-D16
+SINIF 9-F;Cuma;3;Tarih;Emine Gökçe Arslan;2-D16
+SINIF 9-F;Cuma;4;Tarih;Emine Gökçe Arslan;2-D16
+SINIF 9-F;Cuma;5;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D16
+SINIF 9-F;Cuma;6;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D16
+SINIF 9-F;Cuma;7;Seçmeli Demokresi ve İnsan Hakları;Şevket Öztürk;2-D16
+SINIF 9-F;Cuma;8;Matematik;Semiha Halis;2-D16
+SINIF 9-F;Cuma;9;İngilizce;Neşe Saraçoğlu;2-D16
+SINIF 9-G;Pazartesi;1;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D17
+SINIF 9-G;Pazartesi;2;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D17
+SINIF 9-G;Pazartesi;3;İngilizce;Emine Düştegör;2-D16
+SINIF 9-G;Pazartesi;4;İngilizce;Emine Düştegör;2-D16
+SINIF 9-G;Pazartesi;5;Seçmeli Metin Tahlilleri;Nuray Çoban;2-D17
+SINIF 9-G;Pazartesi;6;Seçmeli Metin Tahlilleri;Nuray Çoban;2-D17
+SINIF 9-G;Pazartesi;7;Tarih;Orhan Gülbaşar;2-D17
+SINIF 9-G;Pazartesi;8;Tarih;Orhan Gülbaşar;2-D17
+SINIF 9-G;Salı;1;Matematik;Sonnur Aral;2-D17
+SINIF 9-G;Salı;2;Matematik;Sonnur Aral;2-D17
+SINIF 9-G;Salı;3;Fizik;Fatma Gül Öncül;2-D17
+SINIF 9-G;Salı;4;Matematik;Sonnur Aral;2-D17
+SINIF 9-G;Salı;5;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D17
+SINIF 9-G;Salı;6;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D17
+SINIF 9-G;Salı;7;Coğrafya;Funda Kapusuzoğlu;2-D16
+SINIF 9-G;Salı;8;Coğrafya;Funda Kapusuzoğlu;2-D16
+SINIF 9-G;Çarşamba;1;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-G;Çarşamba;2;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-G;Çarşamba;3;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-G;Çarşamba;4;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-G;Çarşamba;5;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-G;Çarşamba;6;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-G;Çarşamba;7;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-G;Çarşamba;8;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-G;Çarşamba;9;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-G;Perşembe;1;Biyoloji;Hakan Kaya;2-D17
+SINIF 9-G;Perşembe;2;Biyoloji;Hakan Kaya;2-D17
+SINIF 9-G;Perşembe;3;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D17
+SINIF 9-G;Perşembe;4;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;2-D17
+SINIF 9-G;Perşembe;5;Fizik;Fatma Gül Öncül;2-D17
+SINIF 9-G;Perşembe;6;Seçmeli Temel Dini Bilgiler;Yasemin Şahin;2-D17
+SINIF 9-G;Perşembe;7;Kimya;Ayşe Banu Gülhan;2-D17
+SINIF 9-G;Perşembe;8;Kimya;Ayşe Banu Gülhan;2-D17
+SINIF 9-G;Perşembe;9;Seçmeli Demokresi ve İnsan Hakları;Şenol Erdem;BİL4
+SINIF 9-G;Cuma;1;Mesleki Gelişim Atölyesi;Volkan Pulat;2-D15
+SINIF 9-G;Cuma;2;Mesleki Gelişim Atölyesi;Volkan Pulat;2-D15
+SINIF 9-G;Cuma;3;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D17
+SINIF 9-G;Cuma;4;Seçmeli Adabı Muaşeret;Tülin Aşutli;2-D17
+SINIF 9-G;Cuma;5;Matematik;Sonnur Aral;2-D17
+SINIF 9-G;Cuma;6;Matematik;Sonnur Aral;2-D17
+SINIF 9-G;Cuma;7;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;KON
+SINIF 9-G;Cuma;8;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;KON
+SINIF 9-G;Cuma;9;İngilizce;Emine Düştegör;2-D17
+SINIF 9-G;Cuma;10;İngilizce;Emine Düştegör;2-D17
+SINIF 9-H;Pazartesi;1;İngilizce;Emine Düştegör;2-D18
+SINIF 9-H;Pazartesi;2;İngilizce;Emine Düştegör;2-D18
+SINIF 9-H;Pazartesi;3;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D17
+SINIF 9-H;Pazartesi;4;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D17
+SINIF 9-H;Pazartesi;5;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;KON
+SINIF 9-H;Pazartesi;6;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;KON
+SINIF 9-H;Pazartesi;7;Tarih;Emine Gökçe Arslan;2-D18
+SINIF 9-H;Pazartesi;8;Tarih;Emine Gökçe Arslan;2-D18
+SINIF 9-H;Salı;1;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;2-D18
+SINIF 9-H;Salı;2;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;2-D18
+SINIF 9-H;Salı;3;Kimya;Özlem Şeker;2-D18
+SINIF 9-H;Salı;4;Kimya;Özlem Şeker;2-D18
+SINIF 9-H;Salı;5;Fizik;Fatma Gül Öncül;2-D18
+SINIF 9-H;Salı;6;Seçmeli Demokresi ve İnsan Hakları;Şevket Öztürk;2-D18
+SINIF 9-H;Salı;7;İngilizce;Emine Düştegör;2-D18
+SINIF 9-H;Salı;8;İngilizce;Emine Düştegör;2-D18
+SINIF 9-H;Çarşamba;1;Matematik;Sonnur Aral;2-D17
+SINIF 9-H;Çarşamba;2;Matematik;Sonnur Aral;2-D17
+SINIF 9-H;Çarşamba;3;Biyoloji;Hakan Kaya;2-D17
+SINIF 9-H;Çarşamba;4;Biyoloji;Hakan Kaya;2-D17
+SINIF 9-H;Çarşamba;5;Fizik;Fatma Gül Öncül;2-D17
+SINIF 9-H;Çarşamba;6;Seçmeli Adabı Muaşeret;İsmail Oğuz Yücel;2-D17
+SINIF 9-H;Çarşamba;7;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D17
+SINIF 9-H;Çarşamba;8;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D17
+SINIF 9-H;Çarşamba;9;Mesleki Gelişim Atölyesi;Tarık Gözlü;2-D17
+SINIF 9-H;Çarşamba;10;Mesleki Gelişim Atölyesi;Tarık Gözlü;2-D17
+SINIF 9-H;Perşembe;1;Temel Elektronik Atölyesi;Devrim Çetinkaya;EL4,EL5
+SINIF 9-H;Perşembe;2;Temel Elektronik Atölyesi;Devrim Çetinkaya;EL4,EL5
+SINIF 9-H;Perşembe;3;Temel Elektronik Atölyesi;Devrim Çetinkaya;EL4,EL5
+SINIF 9-H;Perşembe;4;Temel Elektronik Atölyesi;Devrim Çetinkaya;EL4,EL5
+SINIF 9-H;Perşembe;5;Temel Elektronik Atölyesi;Devrim Çetinkaya;EL4,EL5
+SINIF 9-H;Perşembe;6;Temel Elektronik Atölyesi;Devrim Çetinkaya;EL4,EL5
+SINIF 9-H;Perşembe;7;Temel Elektronik Atölyesi;Devrim Çetinkaya;EL4,EL5
+SINIF 9-H;Perşembe;8;Temel Elektronik Atölyesi;Devrim Çetinkaya;EL4,EL5
+SINIF 9-H;Perşembe;9;Temel Elektronik Atölyesi;Devrim Çetinkaya;EL4,EL5
+SINIF 9-H;Cuma;1;Coğrafya;Funda Kapusuzoğlu;2-D17
+SINIF 9-H;Cuma;2;Coğrafya;Funda Kapusuzoğlu;2-D18
+SINIF 9-H;Cuma;3;Matematik;Sonnur Aral;2-D18
+SINIF 9-H;Cuma;4;Seçmeli Metin Tahlilleri;İsmail Oğuz Yücel;2-D18
+SINIF 9-H;Cuma;5;Seçmeli Metin Tahlilleri;İsmail Oğuz Yücel;2-D18
+SINIF 9-H;Cuma;6;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;2-D18
+SINIF 9-H;Cuma;7;Seçmeli Temel Dini Bilgiler;Betül Erbay;2-D18
+SINIF 9-H;Cuma;8;Matematik;Sonnur Aral;2-D18
+SINIF 9-H;Cuma;9;Matematik;Sonnur Aral;2-D18
+SINIF 9-I;Pazartesi;1;Türk Dili ve Edebiyatı;Hasan Özçelik;2-D02
+SINIF 9-I;Pazartesi;2;Türk Dili ve Edebiyatı;Hasan Özçelik;2-D18
+SINIF 9-I;Pazartesi;3;Biyoloji;Hakan Kaya;2-D18
+SINIF 9-I;Pazartesi;4;Biyoloji;Hakan Kaya;2-D18
+SINIF 9-I;Pazartesi;5;İngilizce;Emine Düştegör;2-D18
+SINIF 9-I;Pazartesi;6;İngilizce;Emine Düştegör;2-D18
+SINIF 9-I;Salı;1;Fizik;Fatma Gül Öncül;2-D12
+SINIF 9-I;Salı;2;Fizik;Fatma Gül Öncül;2-D12
+SINIF 9-I;Salı;3;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D03
+SINIF 9-I;Salı;4;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;KON
+SINIF 9-I;Salı;5;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;KON
+SINIF 9-I;Salı;6;Mesleki Gelişim Atölyesi;Neslihan Biberoğlu;1-D09
+SINIF 9-I;Salı;7;Mesleki Gelişim Atölyesi;Neslihan Biberoğlu;1-D09
+SINIF 9-I;Salı;8;Kimya;Özlem Şeker;1-D10
+SINIF 9-I;Salı;9;Kimya;Özlem Şeker;1-D10
+SINIF 9-I;Salı;10;Seçmeli Temel Dini Bilgiler;Yasemin Şahin;1-D10
+SINIF 9-I;Çarşamba;1;Temel Elektronik Atölyesi;Ali Başaran;EL6
+SINIF 9-I;Çarşamba;2;Temel Elektronik Atölyesi;Ali Başaran;EL7
+SINIF 9-I;Çarşamba;3;Temel Elektronik Atölyesi;Ali Başaran;EL8
+SINIF 9-I;Çarşamba;4;Temel Elektronik Atölyesi;Ali Başaran;EL9
+SINIF 9-I;Çarşamba;5;Temel Elektronik Atölyesi;Ali Başaran;EL10
+SINIF 9-I;Çarşamba;6;Temel Elektronik Atölyesi;Ali Başaran;EL11
+SINIF 9-I;Çarşamba;7;Temel Elektronik Atölyesi;Ali Başaran;EL12
+SINIF 9-I;Çarşamba;8;Temel Elektronik Atölyesi;Ali Başaran;EL13
+SINIF 9-I;Çarşamba;9;Temel Elektronik Atölyesi;Ali Başaran;EL14
+SINIF 9-I;Cuma;1;Matematik;Sonnur Aral;2-D18
+SINIF 9-I;Cuma;2;Matematik;Sonnur Aral;2-D18
+SINIF 9-I;Cuma;3;Tarih;Orhan Gülbaşar;2-D15
+SINIF 9-I;Cuma;4;Tarih;Orhan Gülbaşar;2-D15
+SINIF 9-I;Cuma;5;Türk Dili ve Edebiyatı;Hasan Özçelik;2-D15
+SINIF 9-I;Cuma;6;Türk Dili ve Edebiyatı;Hasan Özçelik;2-D15
+SINIF 9-I;Cuma;7;İngilizce;Emine Düştegör;2-D15
+SINIF 9-I;Cuma;8;İngilizce;Emine Düştegör;2-D15
+SINIF 9-I;Cuma;9;Seçmeli Adabı Muaşeret;Hasan Özçelik;2-D15
+SINIF 9-ATP;Pazartesi;1;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-ATP;Pazartesi;2;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-ATP;Pazartesi;3;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-ATP;Pazartesi;4;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-ATP;Pazartesi;5;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-ATP;Pazartesi;6;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-ATP;Pazartesi;7;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-ATP;Pazartesi;8;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-ATP;Pazartesi;9;Temel Elektronik Atölyesi;Hasan Guran;EL4,EL5
+SINIF 9-ATP;Salı;1;Coğrafya;Funda Kapusuzoğlu;1-D11
+SINIF 9-ATP;Salı;2;Coğrafya;Funda Kapusuzoğlu;1-D11
+SINIF 9-ATP;Salı;3;Türk Dili ve Edebiyatı;Tülin Kaya;1-D11
+SINIF 9-ATP;Salı;4;Seçmeli Temel Dini Bilgiler;Yasemin Şahin;1-D11
+SINIF 9-ATP;Salı;5;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;1-D11
+SINIF 9-ATP;Salı;6;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;1-D11
+SINIF 9-ATP;Salı;7;Tarih;Emine Gökçe Arslan;1-D11
+SINIF 9-ATP;Salı;8;Tarih;Emine Gökçe Arslan;1-D11
+SINIF 9-ATP;Salı;9;İngilizce;Emine Düştegör;1-D11
+SINIF 9-ATP;Salı;10;İngilizce;Emine Düştegör;1-D11
+SINIF 9-ATP;Çarşamba;1;Beden Eğitimi / Görsel Sanatlar / Müzik;Mehmet Buldak;1-D11
+SINIF 9-ATP;Çarşamba;2;Beden Eğitimi / Görsel Sanatlar / Müzik;Mehmet Buldak;1-D11
+SINIF 9-ATP;Çarşamba;3;Mesleki Gelişim Atölyesi;Neslihan Biberoğlu;1-D11
+SINIF 9-ATP;Çarşamba;4;Mesleki Gelişim Atölyesi;Neslihan Biberoğlu;1-D11
+SINIF 9-ATP;Çarşamba;5;Seçmeli Demokresi ve İnsan Hakları;Şenol Erdem;1-D11
+SINIF 9-ATP;Çarşamba;6;Türk Dili ve Edebiyatı;Tülin Kaya;1-D11
+SINIF 9-ATP;Çarşamba;7;Matematik;Gülhan Karaman;1-D11
+SINIF 9-ATP;Çarşamba;8;Matematik;Gülhan Karaman;1-D11
+SINIF 9-ATP;Çarşamba;9;Fizik;Nalan Tiryaki;1-D11
+SINIF 9-ATP;Çarşamba;10;Fizik;Nalan Tiryaki;1-D11
+SINIF 9-ATP;Perşembe;1;Seçmeli Metin Tahlilleri;Tülin Kaya;1-D11
+SINIF 9-ATP;Perşembe;2;Seçmeli Metin Tahlilleri;Tülin Kaya;1-D11
+SINIF 9-ATP;Perşembe;3;Matematik;Gülhan Karaman;1-D11
+SINIF 9-ATP;Perşembe;4;Matematik;Gülhan Karaman;1-D11
+SINIF 9-ATP;Perşembe;5;Kimya;Özlem Şeker;1-D11
+SINIF 9-ATP;Perşembe;6;Kimya;Özlem Şeker;1-D11
+SINIF 9-ATP;Perşembe;7;Matematik;Gülhan Karaman;1-D11
+SINIF 9-ATP;Perşembe;8;Seçmeli Adabı Muaşeret;Tülin Kaya;1-D11
+SINIF 9-ATP;Perşembe;9;Türk Dili ve Edebiyatı;Tülin Kaya;1-D11
+SINIF 9-ATP;Cuma;1;Biyoloji;Hakan Kaya;1-D11
+SINIF 9-ATP;Cuma;2;Biyoloji;Hakan Kaya;1-D11
+SINIF 9-ATP;Cuma;3;Türk Dili ve Edebiyatı;Tülin Kaya;1-D11
+SINIF 9-ATP;Cuma;4;Türk Dili ve Edebiyatı;Tülin Kaya;1-D11
+SINIF 9-ATP;Cuma;5;İngilizce;Emine Düştegör;1-D11
+SINIF 9-ATP;Cuma;6;İngilizce;Emine Düştegör;1-D11
+SINIF 10-A;Pazartesi;1;Felsefe;Şenol Erdem;1-D06
+SINIF 10-A;Pazartesi;2;Felsefe;Şenol Erdem;1-D06
+SINIF 10-A;Pazartesi;3;Matematik;Fatma Gül Öncül;1-D06
+SINIF 10-A;Pazartesi;4;Matematik;Fatma Gül Öncül;1-D06
+SINIF 10-A;Pazartesi;5;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D06
+SINIF 10-A;Pazartesi;6;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D06
+SINIF 10-A;Pazartesi;7;Rehberlik;Şenol Erdem;1-D06
+SINIF 10-A;Pazartesi;8;Coğrafya;İsmail Oğuz Yücel;1-D04
+SINIF 10-A;Pazartesi;9;Coğrafya;İsmail Oğuz Yücel;1-D04
+SINIF 10-A;Salı;1;Robotik ve Kodlama;Umut Türk;BİL5
+SINIF 10-A;Salı;2;Robotik ve Kodlama;Umut Türk;BİL5
+SINIF 10-A;Salı;3;Robotik ve Kodlama;Umut Türk;BİL5
+SINIF 10-A;Salı;4;Matematik;Fatma Gül Öncül;1-D03
+SINIF 10-A;Salı;5;Fizik;Nalan Tiryaki;1-D05
+SINIF 10-A;Salı;6;Fizik;Nalan Tiryaki;1-D05
+SINIF 10-A;Salı;7;Tarih;Orhan Gülbaşar;1-D06
+SINIF 10-A;Salı;8;Tarih;Orhan Gülbaşar;1-D06
+SINIF 10-A;Salı;9;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D05
+SINIF 10-A;Salı;10;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D05
+SINIF 10-A;Çarşamba;1;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Çarşamba;2;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Çarşamba;3;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Çarşamba;4;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Çarşamba;5;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Çarşamba;6;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Çarşamba;7;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Çarşamba;8;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Çarşamba;9;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Çarşamba;10;Nesne Tabanlı Programlama;Oya Türkoğlu;BİL1
+SINIF 10-A;Perşembe;1;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D06
+SINIF 10-A;Perşembe;2;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D06
+SINIF 10-A;Perşembe;3;Matematik;Fatma Gül Öncül;1-D06
+SINIF 10-A;Perşembe;4;Matematik;Fatma Gül Öncül;1-D06
+SINIF 10-A;Perşembe;5;Seçmeli Temel Dini Bilgiler;Betül Erbay;1-D06
+SINIF 10-A;Perşembe;6;Seçmeli Metin Tahlilleri;Sevdiye Şahiner;1-D06
+SINIF 10-A;Perşembe;7;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D06
+SINIF 10-A;Perşembe;8;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D06
+SINIF 10-A;Perşembe;9;Kimya;Ayşe Banu Gülhan;1-D06
+SINIF 10-A;Perşembe;10;Kimya;Ayşe Banu Gülhan;1-D06
+SINIF 10-A;Cuma;1;İngilizce;Aylin Güneri;1-D06
+SINIF 10-A;Cuma;2;İngilizce;Aylin Güneri;1-D06
+SINIF 10-A;Cuma;3;Biyoloji;Gül Akın;1-D06
+SINIF 10-A;Cuma;4;Biyoloji;Gül Akın;1-D06
+SINIF 10-A;Cuma;5;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-A;Cuma;6;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-B;Pazartesi;1;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D08
+SINIF 10-B;Pazartesi;2;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D08
+SINIF 10-B;Pazartesi;3;Seçmeli Metin Tahlilleri;Sevdiye Şahiner;1-D08
+SINIF 10-B;Pazartesi;4;Seçmeli Temel Dini Bilgiler;Rabia Betül Sakalı;1-D08
+SINIF 10-B;Pazartesi;5;Matematik;Fatma Gül Öncül;1-D08
+SINIF 10-B;Pazartesi;6;Kimya;Özlem Şeker;1-D08
+SINIF 10-B;Pazartesi;7;Kimya;Özlem Şeker;1-D08
+SINIF 10-B;Pazartesi;8;Felsefe;Şenol Erdem;1-D08
+SINIF 10-B;Pazartesi;9;Felsefe;Şenol Erdem;1-D08
+SINIF 10-B;Salı;1;Biyoloji;Kadriye Akköseoğlu;1-D08
+SINIF 10-B;Salı;2;Biyoloji;Kadriye Akköseoğlu;1-D08
+SINIF 10-B;Salı;3;Rehberlik;Aylin Güneri;1-D08
+SINIF 10-B;Salı;4;Robotik ve Kodlama;Sultan Perincek;BİL5
+SINIF 10-B;Salı;5;Robotik ve Kodlama;Sultan Perincek;BİL5
+SINIF 10-B;Salı;6;Robotik ve Kodlama;Sultan Perincek;BİL5
+SINIF 10-B;Salı;7;Coğrafya;İsmail Oğuz Yücel;1-D05
+SINIF 10-B;Salı;8;Coğrafya;İsmail Oğuz Yücel;1-D05
+SINIF 10-B;Salı;9;Fizik;Nalan Tiryaki;1-D08
+SINIF 10-B;Salı;10;Fizik;Nalan Tiryaki;1-D08
+SINIF 10-B;Çarşamba;1;Matematik;Fatma Gül Öncül;1-D08
+SINIF 10-B;Çarşamba;2;Matematik;Fatma Gül Öncül;1-D08
+SINIF 10-B;Çarşamba;3;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D08
+SINIF 10-B;Çarşamba;4;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D08
+SINIF 10-B;Çarşamba;5;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D08
+SINIF 10-B;Çarşamba;6;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D08
+SINIF 10-B;Çarşamba;7;Matematik;Fatma Gül Öncül;1-D08
+SINIF 10-B;Çarşamba;8;Matematik;Fatma Gül Öncül;1-D08
+SINIF 10-B;Çarşamba;9;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-B;Çarşamba;10;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-B;Perşembe;1;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Perşembe;2;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Perşembe;3;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Perşembe;4;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Perşembe;5;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Perşembe;6;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Perşembe;7;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Perşembe;8;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Perşembe;9;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Perşembe;10;Nesne Tabanlı Programlama;Umut Türk;BİL1
+SINIF 10-B;Cuma;1;Tarih;Emine Gökçe Arslan;1-D08
+SINIF 10-B;Cuma;2;Tarih;Emine Gökçe Arslan;1-D08
+SINIF 10-B;Cuma;3;İngilizce;Aylin Güneri;1-D08
+SINIF 10-B;Cuma;4;İngilizce;Aylin Güneri;1-D08
+SINIF 10-B;Cuma;5;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D08
+SINIF 10-B;Cuma;6;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D08
+SINIF 10-C;Pazartesi;1;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;1-D09
+SINIF 10-C;Pazartesi;2;Beden Eğitimi / Görsel Sanatlar / Müzik;Berat Altınışık;1-D09
+SINIF 10-C;Pazartesi;3;Biyoloji;Gül Akın;1-D09
+SINIF 10-C;Pazartesi;4;Biyoloji;Gül Akın;1-D09
+SINIF 10-C;Pazartesi;5;İngilizce;Aylin Güneri;1-D09
+SINIF 10-C;Pazartesi;6;İngilizce;Aylin Güneri;1-D09
+SINIF 10-C;Pazartesi;7;Fizik;Nalan Tiryaki;1-D09
+SINIF 10-C;Pazartesi;8;Fizik;Nalan Tiryaki;1-D09
+SINIF 10-C;Salı;1;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL2,EL3
+SINIF 10-C;Salı;2;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-C;Salı;3;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-C;Salı;4;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-C;Salı;5;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-C;Salı;6;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-C;Salı;7;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-C;Salı;8;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-C;Salı;9;Rehberlik;Yüksel Ersoy;1-D09
+SINIF 10-C;Çarşamba;1;Coğrafya;İsmail Oğuz Yücel;1-D09
+SINIF 10-C;Çarşamba;2;Coğrafya;İsmail Oğuz Yücel;1-D09
+SINIF 10-C;Çarşamba;3;Matematik;Fatma Gül Öncül;1-D09
+SINIF 10-C;Çarşamba;4;Matematik;Fatma Gül Öncül;1-D09
+SINIF 10-C;Çarşamba;5;Bilgisiyarlı Devre Dizaynı;Özlem Şahan;EL1
+SINIF 10-C;Çarşamba;6;Bilgisiyarlı Devre Dizaynı;Özlem Şahan;EL1
+SINIF 10-C;Çarşamba;7;Seçmeli Spor Eğitimi;Berat Altınışık;1-D09
+SINIF 10-C;Çarşamba;8;Seçmeli Spor Eğitimi;Berat Altınışık;1-D09
+SINIF 10-C;Çarşamba;9;Felsefe;Şenol Erdem;1-D09
+SINIF 10-C;Çarşamba;10;Felsefe;Şenol Erdem;1-D09
+SINIF 10-C;Perşembe;1;Matematik;Fatma Gül Öncül;1-D09
+SINIF 10-C;Perşembe;2;Matematik;Fatma Gül Öncül;1-D09
+SINIF 10-C;Perşembe;3;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D09
+SINIF 10-C;Perşembe;4;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D09
+SINIF 10-C;Perşembe;5;Seçmeli Metin Tahlilleri;Sevdiye Şahiner;1-D09
+SINIF 10-C;Perşembe;6;Matematik;Fatma Gül Öncül;1-D09
+SINIF 10-C;Perşembe;7;Seçmeli Temel Dini Bilgiler;Betül Erbay;1-D09
+SINIF 10-C;Perşembe;8;Elektirik Elektronik Esasları;Çetin Sümer;Bilinmiyor
+SINIF 10-C;Perşembe;9;Elektirik Elektronik Esasları;Çetin Sümer;Bilinmiyor
+SINIF 10-C;Perşembe;10;Elektirik Elektronik Esasları;Çetin Sümer;Bilinmiyor
+SINIF 10-C;Cuma;1;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D09
+SINIF 10-C;Cuma;2;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D09
+SINIF 10-C;Cuma;3;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D09
+SINIF 10-C;Cuma;4;Türk Dili ve Edebiyatı;Sevdiye Şahiner;1-D09
+SINIF 10-C;Cuma;5;Kimya;Ayşe Banu Gülhan;1-D09
+SINIF 10-C;Cuma;6;Kimya;Ayşe Banu Gülhan;1-D09
+SINIF 10-C;Cuma;7;Tarih;Orhan Gülbaşar;1-D09
+SINIF 10-C;Cuma;8;Tarih;Orhan Gülbaşar;1-D09
+SINIF 10-D;Pazartesi;1;Tarih;Orhan Gülbaşar;1-D10
+SINIF 10-D;Pazartesi;2;Tarih;Orhan Gülbaşar;1-D10
+SINIF 10-D;Pazartesi;3;Kimya;Özlem Şeker;1-D10
+SINIF 10-D;Pazartesi;4;Kimya;Özlem Şeker;1-D10
+SINIF 10-D;Pazartesi;5;Elektirik Elektronik Esasları;Murat Taşkın;EL6
+SINIF 10-D;Pazartesi;6;Elektirik Elektronik Esasları;Murat Taşkın;EL6
+SINIF 10-D;Pazartesi;7;Elektirik Elektronik Esasları;Murat Taşkın;EL6
+SINIF 10-D;Pazartesi;8;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D10
+SINIF 10-D;Pazartesi;9;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D10
+SINIF 10-D;Pazartesi;10;Rehberlik;Volkan Pulat;1-D08
+SINIF 10-D;Salı;1;Elektronik Atölyesi;Çetin Sümer;EL7,EL8
+SINIF 10-D;Salı;2;Elektronik Atölyesi;Çetin Sümer;EL7,EL8
+SINIF 10-D;Salı;3;Elektronik Atölyesi;Çetin Sümer;EL7,EL8
+SINIF 10-D;Salı;4;Elektronik Atölyesi;Çetin Sümer;EL7,EL8
+SINIF 10-D;Salı;5;Elektronik Atölyesi;Çetin Sümer;EL7,EL8
+SINIF 10-D;Salı;6;Elektronik Atölyesi;Çetin Sümer;EL7,EL8
+SINIF 10-D;Salı;7;Elektronik Atölyesi;Çetin Sümer;EL7,EL8
+SINIF 10-D;Salı;8;Elektronik Atölyesi;Çetin Sümer;EL7,EL8
+SINIF 10-D;Salı;9;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-D;Salı;10;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-D;Çarşamba;1;Matematik;Kübra Günaydın Yılmaz;1-D10
+SINIF 10-D;Çarşamba;2;Matematik;Kübra Günaydın Yılmaz;1-D10
+SINIF 10-D;Çarşamba;3;Bilgisiyarlı Devre Dizaynı;Özlem Şahan;EL1
+SINIF 10-D;Çarşamba;4;Bilgisiyarlı Devre Dizaynı;Özlem Şahan;EL1
+SINIF 10-D;Çarşamba;5;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;1-D08
+SINIF 10-D;Çarşamba;6;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;1-D08
+SINIF 10-D;Çarşamba;7;Fizik;Nalan Tiryaki;1-D05
+SINIF 10-D;Çarşamba;8;Fizik;Nalan Tiryaki;1-D05
+SINIF 10-D;Perşembe;1;İngilizce;Aylin Güneri;1-D08
+SINIF 10-D;Perşembe;2;İngilizce;Aylin Güneri;1-D08
+SINIF 10-D;Perşembe;3;Felsefe;Şenol Erdem;1-D08
+SINIF 10-D;Perşembe;4;Felsefe;Şenol Erdem;1-D08
+SINIF 10-D;Perşembe;5;Seçmeli Temel Dini Bilgiler;Yasemin Şahin;1-D08
+SINIF 10-D;Perşembe;6;Matematik;Kübra Günaydın Yılmaz;1-D08
+SINIF 10-D;Perşembe;7;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D05
+SINIF 10-D;Perşembe;8;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D05
+SINIF 10-D;Cuma;1;Biyoloji;Gül Akın;1-D10
+SINIF 10-D;Cuma;2;Biyoloji;Gül Akın;1-D10
+SINIF 10-D;Cuma;3;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D10
+SINIF 10-D;Cuma;4;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D10
+SINIF 10-D;Cuma;5;Matematik;Kübra Günaydın Yılmaz;1-D10
+SINIF 10-D;Cuma;6;Matematik;Kübra Günaydın Yılmaz;1-D10
+SINIF 10-D;Cuma;7;Seçmeli Metin Tahlilleri;Hasan Özçelik;1-D10
+SINIF 10-D;Cuma;8;Coğrafya;Tülin Aşutli;1-D08
+SINIF 10-D;Cuma;9;Coğrafya;Tülin Aşutli;1-D08
+SINIF 10-E;Pazartesi;1;Biyoloji;Kadriye Akköseoğlu;1-D11
+SINIF 10-E;Pazartesi;2;Biyoloji;Kadriye Akköseoğlu;1-D11
+SINIF 10-E;Pazartesi;3;Seçmeli Temel Dini Bilgiler;Rabia Betül Sakalı;1-D11
+SINIF 10-E;Pazartesi;4;Fizik;Nalan Tiryaki;1-D07
+SINIF 10-E;Pazartesi;5;Fizik;Nalan Tiryaki;1-D07
+SINIF 10-E;Pazartesi;6;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D10
+SINIF 10-E;Pazartesi;7;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D10
+SINIF 10-E;Pazartesi;8;Elektirik Elektronik Esasları;Murat Taşkın;EL6
+SINIF 10-E;Pazartesi;9;Elektirik Elektronik Esasları;Murat Taşkın;EL6
+SINIF 10-E;Pazartesi;10;Elektirik Elektronik Esasları;Murat Taşkın;EL6
+SINIF 10-E;Salı;1;Matematik;Kübra Günaydın Yılmaz;1-D10
+SINIF 10-E;Salı;2;Matematik;Kübra Günaydın Yılmaz;1-D10
+SINIF 10-E;Salı;3;Seçmeli Metin Tahlilleri;İsmail Oğuz Yücel;1-D10
+SINIF 10-E;Salı;4;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D10
+SINIF 10-E;Salı;5;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D10
+SINIF 10-E;Salı;6;Kimya;Özlem Şeker;1-D10
+SINIF 10-E;Salı;7;Kimya;Özlem Şeker;1-D10
+SINIF 10-E;Çarşamba;1;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D03
+SINIF 10-E;Çarşamba;2;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D03
+SINIF 10-E;Çarşamba;3;Matematik;Kübra Günaydın Yılmaz;1-D10
+SINIF 10-E;Çarşamba;4;Matematik;Kübra Günaydın Yılmaz;1-D10
+SINIF 10-E;Çarşamba;5;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-E;Çarşamba;6;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-E;Çarşamba;7;Bilgisiyarlı Devre Dizaynı;Özlem Şahan;EL1
+SINIF 10-E;Çarşamba;8;Bilgisiyarlı Devre Dizaynı;Özlem Şahan;EL1
+SINIF 10-E;Çarşamba;9;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D10
+SINIF 10-E;Çarşamba;10;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D10
+SINIF 10-E;Perşembe;1;Felsefe;Şenol Erdem;1-D10
+SINIF 10-E;Perşembe;2;Felsefe;Şenol Erdem;1-D10
+SINIF 10-E;Perşembe;3;Tarih;Emine Gökçe Arslan;1-D10
+SINIF 10-E;Perşembe;4;Tarih;Emine Gökçe Arslan;1-D10
+SINIF 10-E;Perşembe;5;Rehberlik;Kübra Günaydın Yılmaz;1-D10
+SINIF 10-E;Perşembe;6;İngilizce;Aylin Güneri;1-D10
+SINIF 10-E;Perşembe;7;İngilizce;Aylin Güneri;1-D10
+SINIF 10-E;Perşembe;8;Matematik;Kübra Günaydın Yılmaz;1-D09
+SINIF 10-E;Cuma;1;Coğrafya;İsmail Oğuz Yücel;1-D03
+SINIF 10-E;Cuma;2;Elektronik Atölyesi;Volkan Pulat;EL6
+SINIF 10-E;Cuma;3;Elektronik Atölyesi;Volkan Pulat;EL6
+SINIF 10-E;Cuma;4;Elektronik Atölyesi;Volkan Pulat;EL6
+SINIF 10-E;Cuma;5;Elektronik Atölyesi;Volkan Pulat;EL6
+SINIF 10-E;Cuma;6;Elektronik Atölyesi;Volkan Pulat;EL6
+SINIF 10-E;Cuma;7;Elektronik Atölyesi;Volkan Pulat;EL6
+SINIF 10-E;Cuma;8;Elektronik Atölyesi;Volkan Pulat;EL6
+SINIF 10-E;Cuma;9;Elektronik Atölyesi;Volkan Pulat;EL6
+SINIF 10-E;Cuma;10;Elektronik Atölyesi;Volkan Pulat;EL6
+SINIF 10-ATP;Pazartesi;1;Elektirik Elektronik Esasları;Tarık Gözlü;EL6
+SINIF 10-ATP;Pazartesi;2;Elektirik Elektronik Esasları;Tarık Gözlü;EL6
+SINIF 10-ATP;Pazartesi;3;Elektirik Elektronik Esasları;Tarık Gözlü;EL6
+SINIF 10-ATP;Pazartesi;4;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-ATP;Pazartesi;5;Seçmeli Spor Eğitimi;Berat Altınışık;KON
+SINIF 10-ATP;Pazartesi;6;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;1-D07
+SINIF 10-ATP;Pazartesi;7;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;1-D07
+SINIF 10-ATP;Pazartesi;8;Kimya;Özlem Şeker;1-D07
+SINIF 10-ATP;Pazartesi;9;Kimya;Özlem Şeker;1-D07
+SINIF 10-ATP;Pazartesi;10;Rehberlik;Özlem Şeker;1-D07
+SINIF 10-ATP;Salı;1;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;1-D07
+SINIF 10-ATP;Salı;2;Türk Dili ve Edebiyatı;İsmail Oğuz Yücel;1-D07
+SINIF 10-ATP;Salı;3;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D07
+SINIF 10-ATP;Salı;4;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D07
+SINIF 10-ATP;Salı;5;Tarih;Emine Gökçe Arslan;1-D07
+SINIF 10-ATP;Salı;6;Tarih;Emine Gökçe Arslan;1-D07
+SINIF 10-ATP;Salı;7;Fizik;Nalan Tiryaki;1-D07
+SINIF 10-ATP;Salı;8;Fizik;Nalan Tiryaki;1-D07
+SINIF 10-ATP;Salı;9;Seçmeli Metin Tahlilleri;İsmail Oğuz Yücel;1-D07
+SINIF 10-ATP;Çarşamba;1;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL2,EL3
+SINIF 10-ATP;Çarşamba;2;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-ATP;Çarşamba;3;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-ATP;Çarşamba;4;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-ATP;Çarşamba;5;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-ATP;Çarşamba;6;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-ATP;Çarşamba;7;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-ATP;Çarşamba;8;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-ATP;Çarşamba;9;Kumanda Ve Kontrol Atölyesi;Devrim Çetinkaya;EL3
+SINIF 10-ATP;Çarşamba;10;Bilgisiyarlı Devre Dizaynı;Özlem Şahan;EL1
+SINIF 10-ATP;Perşembe;1;Matematik;Süleyman Dinçer;1-D07
+SINIF 10-ATP;Perşembe;2;Matematik;Süleyman Dinçer;1-D07
+SINIF 10-ATP;Perşembe;3;Seçmeli Temel Dini Bilgiler;Rabia Betül Sakalı;1-D07
+SINIF 10-ATP;Perşembe;4;İngilizce;Aylin Güneri;1-D07
+SINIF 10-ATP;Perşembe;5;İngilizce;Aylin Güneri;1-D07
+SINIF 10-ATP;Perşembe;6;Matematik;Süleyman Dinçer;1-D07
+SINIF 10-ATP;Perşembe;7;Felsefe;Şenol Erdem;1-D07
+SINIF 10-ATP;Perşembe;8;Felsefe;Şenol Erdem;1-D07
+SINIF 10-ATP;Perşembe;9;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D07
+SINIF 10-ATP;Perşembe;10;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;KON
+SINIF 10-ATP;Cuma;1;Matematik;Süleyman Dinçer;1-D07
+SINIF 10-ATP;Cuma;2;Matematik;Süleyman Dinçer;1-D07
+SINIF 10-ATP;Cuma;3;Biyoloji;Hakan Kaya;1-D07
+SINIF 10-ATP;Cuma;4;Biyoloji;Hakan Kaya;1-D07
+SINIF 10-ATP;Cuma;5;Coğrafya;Funda Kapusuzoğlu;1-D07
+SINIF 10-ATP;Cuma;6;Coğrafya;Funda Kapusuzoğlu;1-D07
+SINIF 11-A;Pazartesi;1;Seçmeli Temel Matematik;Gülhan Karaman;1-D04
+SINIF 11-A;Pazartesi;2;Seçmeli Temel Matematik;Gülhan Karaman;1-D04
+SINIF 11-A;Pazartesi;3;Sağlık Bilgisi ve Trafik Kültürü;Kadriye Akköseoğlu;1-D04
+SINIF 11-A;Pazartesi;4;Tarih;Orhan Gülbaşar;1-D02
+SINIF 11-A;Pazartesi;5;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D04
+SINIF 11-A;Pazartesi;6;Felsefe;Şevket Öztürk;1-D04
+SINIF 11-A;Pazartesi;7;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D04
+SINIF 11-A;Salı;1;Mobil Uygulamalar;Uğur Bingöllü;BİL4
+SINIF 11-A;Salı;2;Mobil Uygulamalar;Uğur Bingöllü;BİL4
+SINIF 11-A;Salı;3;Mobil Uygulamalar;Uğur Bingöllü;BİL4
+SINIF 11-A;Salı;4;Mobil Uygulamalar;Uğur Bingöllü;BİL4
+SINIF 11-A;Salı;5;Mobil Uygulamalar;Uğur Bingöllü;BİL4
+SINIF 11-A;Salı;6;Seçmeli Ağ Projesi;Uğur Bingöllü;BİL4
+SINIF 11-A;Salı;7;Seçmeli Ağ Projesi;Uğur Bingöllü;BİL4
+SINIF 11-A;Salı;8;Türk Dili ve Edebiyatı;Sema Uğur Kinay;2-D15
+SINIF 11-A;Salı;9;Türk Dili ve Edebiyatı;Sema Uğur Kinay;2-D15
+SINIF 11-A;Çarşamba;1;Web Tabanlı Uygulama Geliştirme;Mehtap Mutlu Bilgin;BİL3
+SINIF 11-A;Çarşamba;2;Web Tabanlı Uygulama Geliştirme;Mehtap Mutlu Bilgin;BİL3
+SINIF 11-A;Çarşamba;3;Web Tabanlı Uygulama Geliştirme;Mehtap Mutlu Bilgin;BİL3
+SINIF 11-A;Çarşamba;4;Web Tabanlı Uygulama Geliştirme;Mehtap Mutlu Bilgin;BİL3
+SINIF 11-A;Çarşamba;5;Web Tabanlı Uygulama Geliştirme;Mehtap Mutlu Bilgin;BİL3
+SINIF 11-A;Çarşamba;6;Web Tabanlı Uygulama Geliştirme;Mehtap Mutlu Bilgin;BİL3
+SINIF 11-A;Çarşamba;7;Web Tabanlı Uygulama Geliştirme;Mehtap Mutlu Bilgin;BİL3
+SINIF 11-A;Çarşamba;8;Web Tabanlı Uygulama Geliştirme;Mehtap Mutlu Bilgin;BİL3
+SINIF 11-A;Çarşamba;9;Rehberlik;Sultan Perincek;1-D03
+SINIF 11-A;Perşembe;1;Seçmeli Yazılım Projesi;Mehtap Mutlu Bilgin;BİL4
+SINIF 11-A;Perşembe;2;Seçmeli Yazılım Projesi;Mehtap Mutlu Bilgin;BİL4
+SINIF 11-A;Perşembe;3;Seçmeli Yazılım Projesi;Mehtap Mutlu Bilgin;BİL4
+SINIF 11-A;Perşembe;4;Seçmeli Yazılım Projesi;Mehtap Mutlu Bilgin;BİL4
+SINIF 11-A;Perşembe;5;Grafik ve Canlandırma;Sultan Perincek;BİL3
+SINIF 11-A;Perşembe;6;Grafik ve Canlandırma;Sultan Perincek;BİL3
+SINIF 11-A;Perşembe;7;Grafik ve Canlandırma;Sultan Perincek;BİL3
+SINIF 11-A;Perşembe;8;Grafik ve Canlandırma;Sultan Perincek;BİL3
+SINIF 11-A;Perşembe;9;Seçmeli Dijital Tasarım;Sultan Perincek;BİL3
+SINIF 11-A;Perşembe;10;Seçmeli Dijital Tasarım;Sultan Perincek;BİL3
+SINIF 11-A;Cuma;1;Türk Dili ve Edebiyatı;Sema Uğur Kinay;1-D04
+SINIF 11-A;Cuma;2;Türk Dili ve Edebiyatı;Sema Uğur Kinay;1-D04
+SINIF 11-A;Cuma;3;Psikoloji;Şevket Öztürk;1-D04
+SINIF 11-A;Cuma;4;Psikoloji;Şevket Öztürk;1-D04
+SINIF 11-A;Cuma;5;İngilizce;Neşe Saraçoğlu;1-D04
+SINIF 11-A;Cuma;6;Tarih;Orhan Gülbaşar;1-D04
+SINIF 11-A;Cuma;7;İngilizce;Neşe Saraçoğlu;1-D04
+SINIF 11-A;Cuma;8;Felsefe;Şevket Öztürk;1-D04
+SINIF 11-A;Cuma;9;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D04
+SINIF 11-A;Cuma;10;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D04
+SINIF 11-B;Pazartesi;1;Psikoloji;Şevket Öztürk;1-D05
+SINIF 11-B;Pazartesi;2;Psikoloji;Şevket Öztürk;1-D05
+SINIF 11-B;Pazartesi;3;Tarih;Orhan Gülbaşar;1-D05
+SINIF 11-B;Pazartesi;4;Sağlık Bilgisi ve Trafik Kültürü;Kadriye Akköseoğlu;1-D05
+SINIF 11-B;Pazartesi;5;Türk Dili ve Edebiyatı;Tülin Aşutli;1-D05
+SINIF 11-B;Pazartesi;6;Türk Dili ve Edebiyatı;Tülin Aşutli;1-D05
+SINIF 11-B;Pazartesi;7;Felsefe;Şevket Öztürk;1-D05
+SINIF 11-B;Pazartesi;8;İngilizce;Neşe Saraçoğlu;1-D05
+SINIF 11-B;Pazartesi;9;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D05
+SINIF 11-B;Salı;1;Web Tabanlı Uygulama Geliştirme;Emel Yoldaş;BİL1
+SINIF 11-B;Salı;2;Web Tabanlı Uygulama Geliştirme;Emel Yoldaş;BİL1
+SINIF 11-B;Salı;3;Web Tabanlı Uygulama Geliştirme;Emel Yoldaş;BİL1
+SINIF 11-B;Salı;4;Web Tabanlı Uygulama Geliştirme;Emel Yoldaş;BİL1
+SINIF 11-B;Salı;5;Web Tabanlı Uygulama Geliştirme;Emel Yoldaş;BİL1
+SINIF 11-B;Salı;6;Web Tabanlı Uygulama Geliştirme;Emel Yoldaş;BİL1
+SINIF 11-B;Salı;7;Web Tabanlı Uygulama Geliştirme;Emel Yoldaş;BİL1
+SINIF 11-B;Salı;8;Web Tabanlı Uygulama Geliştirme;Emel Yoldaş;BİL1
+SINIF 11-B;Salı;9;Seçmeli Dijital Tasarım;Sultan Perincek;1-D03
+SINIF 11-B;Salı;10;Seçmeli Dijital Tasarım;Sultan Perincek;1-D03
+SINIF 11-B;Çarşamba;1;Mobil Uygulamalar;Fuat Süzer;BİL4
+SINIF 11-B;Çarşamba;2;Mobil Uygulamalar;Fuat Süzer;BİL4
+SINIF 11-B;Çarşamba;3;Mobil Uygulamalar;Fuat Süzer;BİL4
+SINIF 11-B;Çarşamba;4;Mobil Uygulamalar;Fuat Süzer;BİL4
+SINIF 11-B;Çarşamba;5;Mobil Uygulamalar;Fuat Süzer;BİL4
+SINIF 11-B;Çarşamba;6;Seçmeli Ağ Projesi;Fuat Süzer;BİL4
+SINIF 11-B;Çarşamba;7;Seçmeli Ağ Projesi;Fuat Süzer;BİL4
+SINIF 11-B;Perşembe;1;Seçmeli Metin Tahlilleri;Kübra Günaydın Yılmaz;1-D05
+SINIF 11-B;Perşembe;2;Seçmeli Metin Tahlilleri;Kübra Günaydın Yılmaz;1-D05
+SINIF 11-B;Perşembe;3;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D05
+SINIF 11-B;Perşembe;4;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D05
+SINIF 11-B;Perşembe;5;Seçmeli Yazılım Projesi;Mehtap Mutlu Bilgin;BİL4
+SINIF 11-B;Perşembe;6;Seçmeli Yazılım Projesi;Mehtap Mutlu Bilgin;BİL4
+SINIF 11-B;Perşembe;7;Seçmeli Yazılım Projesi;Mehtap Mutlu Bilgin;BİL4
+SINIF 11-B;Perşembe;8;Seçmeli Yazılım Projesi;Mehtap Mutlu Bilgin;BİL4
+SINIF 11-B;Perşembe;9;Rehberlik;Emrah Uluişık;1-D05
+SINIF 11-B;Perşembe;10;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D05
+SINIF 11-B;Cuma;1;Grafik ve Canlandırma;Sultan Perincek;BİL3
+SINIF 11-B;Cuma;2;Grafik ve Canlandırma;Sultan Perincek;BİL3
+SINIF 11-B;Cuma;3;Grafik ve Canlandırma;Sultan Perincek;BİL3
+SINIF 11-B;Cuma;4;Grafik ve Canlandırma;Sultan Perincek;BİL3
+SINIF 11-B;Cuma;5;Tarih;Orhan Gülbaşar;1-D05
+SINIF 11-B;Cuma;6;Türk Dili ve Edebiyatı;Tülin Aşutli;1-D05
+SINIF 11-B;Cuma;7;Türk Dili ve Edebiyatı;Tülin Aşutli;1-D05
+SINIF 11-B;Cuma;8;İngilizce;Neşe Saraçoğlu;1-D05
+SINIF 11-B;Cuma;9;Felsefe;Şevket Öztürk;1-D05
+SINIF 11-C;Pazartesi;1;Mikrodenetleyici ve Kodlama;İbrahim Aslan;EL1
+SINIF 11-C;Pazartesi;2;Mikrodenetleyici ve Kodlama;İbrahim Aslan;EL1
+SINIF 11-C;Pazartesi;3;Mikrodenetleyici ve Kodlama;İbrahim Aslan;EL1
+SINIF 11-C;Pazartesi;4;Mikrodenetleyici ve Kodlama;İbrahim Aslan;EL1
+SINIF 11-C;Pazartesi;5;Seçmeli Hidrolik Ve Pnömatik;Ali Başaran;EL1
+SINIF 11-C;Pazartesi;6;Seçmeli Hidrolik Ve Pnömatik;Ali Başaran;EL1
+SINIF 11-C;Pazartesi;7;Seçmeli Hidrolik Ve Pnömatik;Ali Başaran;EL1
+SINIF 11-C;Pazartesi;8;Felsefe;Şevket Öztürk;1-D06
+SINIF 11-C;Pazartesi;9;Felsefe;Şevket Öztürk;1-D05
+SINIF 11-C;Salı;1;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D05
+SINIF 11-C;Salı;2;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D05
+SINIF 11-C;Salı;3;Sağlık Bilgisi ve Trafik Kültürü;Gül Akın;1-D05
+SINIF 11-C;Salı;4;Seçmeli Elektrik-Elektronik Projeler;Tarık Gözlü;EL1
+SINIF 11-C;Salı;5;Seçmeli Elektrik-Elektronik Projeler;Tarık Gözlü;EL1
+SINIF 11-C;Salı;6;Seçmeli Elektrik-Elektronik Projeler;Tarık Gözlü;EL1
+SINIF 11-C;Salı;7;Seçmeli Elektrik-Elektronik Projeler;Tarık Gözlü;EL1
+SINIF 11-C;Salı;8;Seçmeli Elektrik-Elektronik Projeler;Tarık Gözlü;EL1
+SINIF 11-C;Salı;9;Seçmeli Elektrik-Elektronik Projeler;Tarık Gözlü;EL1
+SINIF 11-C;Salı;10;Seçmeli Elektrik-Elektronik Projeler;Tarık Gözlü;EL1
+SINIF 11-C;Çarşamba;1;Ders Yok;Yok;Yok
+SINIF 11-C;Çarşamba;2;İngilizce;Neşe Saraçoğlu;1-D05
+SINIF 11-C;Çarşamba;3;İngilizce;Neşe Saraçoğlu;1-D05
+SINIF 11-C;Çarşamba;4;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D05
+SINIF 11-C;Çarşamba;5;Endüstriyel Elektronik;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-C;Çarşamba;6;Endüstriyel Elektronik;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-C;Çarşamba;7;Endüstriyel Elektronik;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-C;Çarşamba;8;Endüstriyel Elektronik;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-C;Çarşamba;9;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D06
+SINIF 11-C;Perşembe;1;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 11-C;Perşembe;2;Otomasyon Atölyesi;Murat Taşkın;EL2,EL4
+SINIF 11-C;Perşembe;3;Otomasyon Atölyesi;Murat Taşkın;EL2,EL5
+SINIF 11-C;Perşembe;4;Otomasyon Atölyesi;Murat Taşkın;EL2,EL6
+SINIF 11-C;Perşembe;5;Otomasyon Atölyesi;Murat Taşkın;EL2,EL7
+SINIF 11-C;Perşembe;6;Otomasyon Atölyesi;Murat Taşkın;EL2,EL8
+SINIF 11-C;Perşembe;7;Otomasyon Atölyesi;Murat Taşkın;EL2,EL9
+SINIF 11-C;Perşembe;8;Otomasyon Atölyesi;Murat Taşkın;EL2,EL10
+SINIF 11-C;Perşembe;9;Otomasyon Atölyesi;Murat Taşkın;EL2,EL11
+SINIF 11-C;Cuma;1;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D05
+SINIF 11-C;Cuma;2;Türk Dili ve Edebiyatı;Hasan Özçelik;1-D05
+SINIF 11-C;Cuma;3;Seçmeli Temel Matematik;Kübra Günaydın Yılmaz;1-D05
+SINIF 11-C;Cuma;4;Seçmeli Temel Matematik;Kübra Günaydın Yılmaz;1-D05
+SINIF 11-C;Cuma;5;Tarih;Emine Gökçe Arslan;1-D06
+SINIF 11-C;Cuma;6;Rehberlik;Haluk Kamacı;1-D06
+SINIF 11-C;Cuma;7;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D07
+SINIF 11-C;Cuma;8;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D07
+SINIF 11-C;Cuma;9;Tarih;Emine Gökçe Arslan;1-D06
+SINIF 11-D;Pazartesi;1;Görüntü Sistemleri;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-D;Pazartesi;2;Görüntü Sistemleri;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-D;Pazartesi;3;Görüntü Sistemleri;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-D;Pazartesi;4;Görüntü Sistemleri;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-D;Pazartesi;5;Haberleşme;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-D;Pazartesi;6;Haberleşme;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-D;Pazartesi;7;Haberleşme;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-D;Pazartesi;8;Haberleşme;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-D;Pazartesi;9;İngilizce;Neşe Saraçoğlu;1-D06
+SINIF 11-D;Pazartesi;10;Tarih;Emine Gökçe Arslan;1-D06
+SINIF 11-D;Salı;1;Felsefe;Şevket Öztürk;1-D06
+SINIF 11-D;Salı;2;Felsefe;Şevket Öztürk;1-D06
+SINIF 11-D;Salı;3;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D06
+SINIF 11-D;Salı;4;Tarih;Emine Gökçe Arslan;1-D06
+SINIF 11-D;Salı;5;Türk Dili ve Edebiyatı;Mehtap Özcan;1-D06
+SINIF 11-D;Salı;6;Türk Dili ve Edebiyatı;Mehtap Özcan;1-D06
+SINIF 11-D;Salı;7;Beden Eğitimi / Görsel Sanatlar / Müzik;Mehmet Buldak;1-D06
+SINIF 11-D;Salı;8;Beden Eğitimi / Görsel Sanatlar / Müzik;Mehmet Buldak;1-D06
+SINIF 11-D;Çarşamba;1;Rehberlik;Hakan Kaya;1-D06
+SINIF 11-D;Çarşamba;2;Sağlık Bilgisi ve Trafik Kültürü;Hakan Kaya;1-D06
+SINIF 11-D;Çarşamba;3;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D06
+SINIF 11-D;Çarşamba;4;İngilizce;Neşe Saraçoğlu;1-D06
+SINIF 11-D;Çarşamba;5;Seçmeli Temel Matematik;Gülhan Karaman;1-D06
+SINIF 11-D;Çarşamba;6;Seçmeli Temel Matematik;Gülhan Karaman;1-D06
+SINIF 11-D;Çarşamba;7;Türk Dili ve Edebiyatı;Mehtap Özcan;1-D06
+SINIF 11-D;Çarşamba;8;Türk Dili ve Edebiyatı;Mehtap Özcan;1-D06
+SINIF 11-D;Perşembe;1;Seçmeli Seslendirme ve Işıklandırma;Haluk Kamacı;EL1
+SINIF 11-D;Perşembe;2;Seçmeli Seslendirme ve Işıklandırma;Haluk Kamacı;EL1
+SINIF 11-D;Perşembe;3;Seçmeli Seslendirme ve Işıklandırma;Haluk Kamacı;EL1
+SINIF 11-D;Perşembe;4;Seçmeli Seslendirme ve Işıklandırma;Haluk Kamacı;EL1
+SINIF 11-D;Perşembe;5;Seçmeli Çoklu Ortam Sistemleri;Haluk Kamacı;EL1
+SINIF 11-D;Perşembe;6;Seçmeli Çoklu Ortam Sistemleri;Haluk Kamacı;EL1
+SINIF 11-D;Perşembe;7;Seçmeli Çoklu Ortam Sistemleri;Haluk Kamacı;EL1
+SINIF 11-D;Perşembe;8;Seçmeli 3D Modelleme;Ayşe Göze Deveci;EL1
+SINIF 11-D;Perşembe;9;Seçmeli 3D Modelleme;Ayşe Göze Deveci;EL1
+SINIF 11-D;Perşembe;10;Seçmeli 3D Modelleme;Ayşe Göze Deveci;EL1
+SINIF 11-D;Cuma;1;Mikro Denetleyici ve Güvenlik Atölyesi;Çetin Sümer;EL1
+SINIF 11-D;Cuma;2;Mikro Denetleyici ve Güvenlik Atölyesi;Çetin Sümer;EL1
+SINIF 11-D;Cuma;3;Mikro Denetleyici ve Güvenlik Atölyesi;Çetin Sümer;EL1
+SINIF 11-D;Cuma;4;Mikro Denetleyici ve Güvenlik Atölyesi;Çetin Sümer;EL1
+SINIF 11-D;Cuma;5;Mikro Denetleyici ve Güvenlik Atölyesi;Çetin Sümer;EL1
+SINIF 11-D;Cuma;6;Mikro Denetleyici ve Güvenlik Atölyesi;Çetin Sümer;EL1
+SINIF 11-D;Cuma;7;Mikro Denetleyici ve Güvenlik Atölyesi;Çetin Sümer;EL1
+SINIF 11-D;Cuma;8;Mikro Denetleyici ve Güvenlik Atölyesi;Çetin Sümer;EL1
+SINIF 11-D;Cuma;9;Mikro Denetleyici ve Güvenlik Atölyesi;Çetin Sümer;EL1
+SINIF 11-ATP;Pazartesi;1;Seçmeli Hidrolik Ve Pnömatik;Ali Başaran;EL2,EL3
+SINIF 11-ATP;Pazartesi;2;Seçmeli Hidrolik Ve Pnömatik;Ali Başaran;EL2,EL3
+SINIF 11-ATP;Pazartesi;3;Seçmeli Hidrolik Ve Pnömatik;Ali Başaran;EL2,EL3
+SINIF 11-ATP;Pazartesi;4;Rehberlik;Tarık Gözlü;1-D04
+SINIF 11-ATP;Pazartesi;5;Mikrodenetleyici ve Kodlama;İbrahim Aslan;EL1
+SINIF 11-ATP;Pazartesi;6;Mikrodenetleyici ve Kodlama;İbrahim Aslan;EL1
+SINIF 11-ATP;Pazartesi;7;Mikrodenetleyici ve Kodlama;İbrahim Aslan;EL1
+SINIF 11-ATP;Pazartesi;8;Mikrodenetleyici ve Kodlama;İbrahim Aslan;EL1
+SINIF 11-ATP;Salı;1;Türk Dili ve Edebiyatı;Nuray Çoban;1-D04
+SINIF 11-ATP;Salı;2;Türk Dili ve Edebiyatı;Nuray Çoban;1-D04
+SINIF 11-ATP;Salı;3;Sağlık Bilgisi ve Trafik Kültürü;Kadriye Akköseoğlu;1-D04
+SINIF 11-ATP;Salı;4;İngilizce;Neşe Saraçoğlu;1-D04
+SINIF 11-ATP;Salı;5;İngilizce;Neşe Saraçoğlu;1-D04
+SINIF 11-ATP;Salı;6;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D04
+SINIF 11-ATP;Salı;7;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D04
+SINIF 11-ATP;Salı;8;Felsefe;Şevket Öztürk;1-D04
+SINIF 11-ATP;Salı;9;Felsefe;Şevket Öztürk;1-D04
+SINIF 11-ATP;Çarşamba;1;Endüstriyel Elektronik;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-ATP;Çarşamba;2;Endüstriyel Elektronik;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-ATP;Çarşamba;3;Endüstriyel Elektronik;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-ATP;Çarşamba;4;Endüstriyel Elektronik;Ayşe Göze Deveci;EL7,EL8
+SINIF 11-ATP;Çarşamba;5;Türk Dili ve Edebiyatı;Nuray Çoban;1-D04
+SINIF 11-ATP;Çarşamba;6;Türk Dili ve Edebiyatı;Nuray Çoban;1-D04
+SINIF 11-ATP;Çarşamba;7;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D04
+SINIF 11-ATP;Çarşamba;8;Beden Eğitimi / Görsel Sanatlar / Müzik;Nihat Yazgan;1-D04
+SINIF 11-ATP;Çarşamba;9;Seçmeli Temel Matematik;Gülhan Karaman;1-D04
+SINIF 11-ATP;Çarşamba;10;Seçmeli Temel Matematik;Gülhan Karaman;1-D04
+SINIF 11-ATP;Perşembe;1;Seçmeli Elektrik-Elektronik Projeler;Hasan Guran;EL1
+SINIF 11-ATP;Perşembe;2;Seçmeli Elektrik-Elektronik Projeler;Hasan Guran;EL1
+SINIF 11-ATP;Perşembe;3;Seçmeli Elektrik-Elektronik Projeler;Hasan Guran;EL1
+SINIF 11-ATP;Perşembe;4;Seçmeli Elektrik-Elektronik Projeler;Hasan Guran;EL1
+SINIF 11-ATP;Perşembe;5;Seçmeli Elektrik-Elektronik Projeler;Hasan Guran;EL1
+SINIF 11-ATP;Perşembe;6;Seçmeli Elektrik-Elektronik Projeler;Hasan Guran;EL1
+SINIF 11-ATP;Perşembe;7;Seçmeli Elektrik-Elektronik Projeler;Hasan Guran;EL1
+SINIF 11-ATP;Perşembe;8;Tarih;Emine Gökçe Arslan;1-D04
+SINIF 11-ATP;Perşembe;9;Tarih;Emine Gökçe Arslan;1-D04
+SINIF 11-ATP;Cuma;1;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 11-ATP;Cumartesi;2;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 11-ATP;Pazar;3;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 11-ATP;Pazartesi;4;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 11-ATP;Salı;5;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 11-ATP;Çarşamba;6;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 11-ATP;Perşembe;7;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 11-ATP;Cuma;8;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 11-ATP;Cumartesi;9;Otomasyon Atölyesi;Murat Taşkın;EL2,EL3
+SINIF 12-A;Pazartesi;1;Seçmeli Sosyal Medya;Derya Şahin;BİL4,BİL5
+SINIF 12-A;Pazartesi;2;Seçmeli Sosyal Medya;Derya Şahin;BİL4,BİL5
+SINIF 12-A;Pazartesi;3;Seçmeli Mesleki Yabancı Dil;Derya Şahin;BİL4,BİL5
+SINIF 12-A;Pazartesi;4;Seçmeli Mesleki Yabancı Dil;Derya Şahin;BİL4,BİL5
+SINIF 12-A;Pazartesi;5;Seçmeli Web Porgramcılığı;Derya Şahin;BİL4,BİL5
+SINIF 12-A;Pazartesi;6;Seçmeli Web Porgramcılığı;Derya Şahin;BİL4,BİL5
+SINIF 12-A;Pazartesi;7;Seçmeli Web Porgramcılığı;Derya Şahin;BİL4,BİL5
+SINIF 12-A;Pazartesi;8;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D02
+SINIF 12-A;Pazartesi;9;Türk Dili ve Edebiyatı;Nuray Çoban;1-D02
+SINIF 12-A;Pazartesi;10;Türk Dili ve Edebiyatı;Nuray Çoban;1-D02
+SINIF 12-A;Salı;1;İngilizce;Emine Düştegör;1-D02
+SINIF 12-A;Salı;2;İngilizce;Emine Düştegör;1-D02
+SINIF 12-A;Salı;3;Türk Dili ve Edebiyatı;Nuray Çoban;1-D02
+SINIF 12-A;Salı;4;Türk Dili ve Edebiyatı;Nuray Çoban;1-D02
+SINIF 12-A;Salı;5;Türk Dili ve Edebiyatı;Nuray Çoban;1-D02
+SINIF 12-A;Salı;6;İnkılap Tarihi ve Atatürkçülük;Orhan Gülbaşar;1-D02
+SINIF 12-A;Salı;7;Rehberlik;Zervi Pişgin;1-D02
+SINIF 12-A;Salı;8;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D02
+SINIF 12-A;Salı;9;İnkılap Tarihi ve Atatürkçülük;Orhan Gülbaşar;1-D02
+SINIF 12-B;Perşembe;1;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D03
+SINIF 12-B;Perşembe;2;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D03
+SINIF 12-B;Perşembe;3;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D03
+SINIF 12-B;Perşembe;4;Rehberlik;Oya Türkoğlu;1-D03
+SINIF 12-B;Perşembe;5;İnkılap Tarihi ve Atatürkçülük;Orhan Gülbaşar;1-D03
+SINIF 12-B;Perşembe;6;İnkılap Tarihi ve Atatürkçülük;Orhan Gülbaşar;1-D03
+SINIF 12-B;Perşembe;7;İngilizce;Emine Düştegör;1-D03
+SINIF 12-B;Perşembe;8;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;1-D03
+SINIF 12-B;Perşembe;9;İngilizce;Emine Düştegör;1-D03
+SINIF 12-B;Cuma;1;Seçmeli Web Porgramcılığı;Oya Türkoğlu;BİL1,BİL4
+SINIF 12-B;Cuma;2;Seçmeli Web Porgramcılığı;Oya Türkoğlu;BİL1,BİL4
+SINIF 12-B;Cuma;3;Seçmeli Web Porgramcılığı;Oya Türkoğlu;BİL1,BİL4
+SINIF 12-B;Cuma;4;Seçmeli Mesleki Yabancı Dil;Oya Türkoğlu;BİL1,BİL4
+SINIF 12-B;Cuma;5;Seçmeli Mesleki Yabancı Dil;Oya Türkoğlu;BİL1,BİL4
+SINIF 12-B;Cuma;6;Seçmeli Sosyal Medya;Oya Türkoğlu;BİL1,BİL4
+SINIF 12-B;Cuma;7;Seçmeli Sosyal Medya;Oya Türkoğlu;BİL1,BİL4
+SINIF 12-B;Cuma;8;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D03
+SINIF 12-B;Cuma;9;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D03
+SINIF 12-B;Cuma;10;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;1-D03
+SINIF 12-F;Perşembe;1;Seçmeli Akıllı Ev Sistemleri;Çetin Sümer;EL7,EL8
+SINIF 12-F;Perşembe;2;Seçmeli Akıllı Ev Sistemleri;Çetin Sümer;EL7,EL8
+SINIF 12-F;Perşembe;3;Seçmeli Geçiş Kontrol Sistemleri;Çetin Sümer;EL7,EL8
+SINIF 12-F;Perşembe;4;Seçmeli Geçiş Kontrol Sistemleri;Çetin Sümer;EL7,EL8
+SINIF 12-F;Perşembe;5;Seçmeli Geçiş Kontrol Sistemleri;Çetin Sümer;EL7,EL8
+SINIF 12-F;Perşembe;6;Seçmeli Geçiş Kontrol Sistemleri;Çetin Sümer;EL7,EL8
+SINIF 12-F;Perşembe;7;Seçmeli Geçiş Kontrol Sistemleri;Çetin Sümer;EL7,EL8
+SINIF 12-F;Perşembe;8;İngilizce;Emine Düştegör;1-D02
+SINIF 12-F;Perşembe;9;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D02
+SINIF 12-F;Perşembe;10;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D02
+SINIF 12-F;Cuma;1;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D02
+SINIF 12-F;Cuma;2;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D02
+SINIF 12-F;Cuma;3;Rehberlik;Ayşe Gül Karamanlı;1-D02
+SINIF 12-F;Cuma;4;İngilizce;Emine Düştegör;1-D02
+SINIF 12-F;Cuma;5;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D02
+SINIF 12-F;Cuma;6;İnkılap Tarihi ve Atatürkçülük;Emine Gökçe Arslan;1-D02
+SINIF 12-F;Cuma;7;İnkılap Tarihi ve Atatürkçülük;Emine Gökçe Arslan;1-D02
+SINIF 12-F;Cuma;8;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;1-D02
+SINIF 12-F;Cuma;9;Din Kültürü ve Ahlak Bilgisi;Betül Erbay;1-D02
+SINIF 12-G;Pazartesi;1;Türk Dili ve Edebiyatı;Nuray Çoban;1-D03
+SINIF 12-G;Pazartesi;2;Türk Dili ve Edebiyatı;Nuray Çoban;1-D03
+SINIF 12-G;Pazartesi;3;Türk Dili ve Edebiyatı;Nuray Çoban;1-D03
+SINIF 12-G;Pazartesi;4;İnkılap Tarihi ve Atatürkçülük;Emine Gökçe Arslan;1-D03
+SINIF 12-G;Pazartesi;5;İnkılap Tarihi ve Atatürkçülük;Emine Gökçe Arslan;1-D03
+SINIF 12-G;Pazartesi;6;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D03
+SINIF 12-G;Pazartesi;7;İngilizce;Neşe Saraçoğlu;1-D03
+SINIF 12-G;Pazartesi;8;Türk Dili ve Edebiyatı;Nuray Çoban;1-D03
+SINIF 12-G;Pazartesi;9;Seçmeli Dijital Tasarım;Ayşe Göze Deveci;EL1
+SINIF 12-G;Pazartesi;10;Seçmeli Dijital Tasarım;Ayşe Göze Deveci;EL1
+SINIF 12-G;Salı;1;SPRG;Mehmet Ali Dal;EL1
+SINIF 12-G;Salı;2;SPRG;Mehmet Ali Dal;EL1
+SINIF 12-G;Salı;3;SPRG;Mehmet Ali Dal;EL1
+SINIF 12-G;Salı;4;SSMED;Özlem Şahan;EL1
+SINIF 12-G;Salı;5;SSMED;Özlem Şahan;EL1
+SINIF 12-G;Salı;6;Türk Dili ve Edebiyatı;Nuray Çoban;1-D03
+SINIF 12-G;Salı;7;İngilizce;Neşe Saraçoğlu;1-D03
+SINIF 12-G;Salı;8;Rehberlik;İbrahim Aslan;1-D03
+SINIF 12-G;Salı;9;Din Kültürü ve Ahlak Bilgisi;Yasemin Şahin;1-D03
+SINIF 12-ATP;Pazartesi;1;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D01
+SINIF 12-ATP;Pazartesi;2;Din Kültürü ve Ahlak Bilgisi;Rabia Betül Sakalı;1-D01
+SINIF 12-ATP;Pazartesi;3;STürk Dili ve Edebiyatı2;Tülin Aşutli;1-D01
+SINIF 12-ATP;Pazartesi;4;Felsefe;Şenol Erdem;1-D01
+SINIF 12-ATP;Pazartesi;5;İnkılap Tarihi ve Atatürkçülük;Orhan Gülbaşar;1-D01
+SINIF 12-ATP;Pazartesi;6;İnkılap Tarihi ve Atatürkçülük;Orhan Gülbaşar;1-D01
+SINIF 12-ATP;Pazartesi;7;Seçmeli Coğrafya;Muhammet Hanifi Demir;1-D01
+SINIF 12-ATP;Pazartesi;8;Seçmeli Coğrafya;Muhammet Hanifi Demir;1-D01
+SINIF 12-ATP;Pazartesi;9;Fizik;Nalan Tiryaki;1-D01
+SINIF 12-ATP;Pazartesi;10;Fizik;Nalan Tiryaki;1-D01
+SINIF 12-ATP;Salı;1;Rehberlik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Salı;2;Tarih;Emine Gökçe Arslan;1-D01
+SINIF 12-ATP;Salı;3;Tarih;Emine Gökçe Arslan;1-D01
+SINIF 12-ATP;Salı;4;Seçmeli Biyoloji;Gül Akın;1-D01
+SINIF 12-ATP;Salı;5;İngilizce;Emine Düştegör;1-D01
+SINIF 12-ATP;Salı;6;İngilizce;Emine Düştegör;1-D01
+SINIF 12-ATP;Salı;7;Seçmeli Matematik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Salı;8;Seçmeli Matematik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Salı;9;Seçmeli Matematik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Çarşamba;1;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D01
+SINIF 12-ATP;Çarşamba;2;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D01
+SINIF 12-ATP;Çarşamba;3;Seçmeli Matematik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Çarşamba;4;Seçmeli Matematik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Çarşamba;5;Fizik;Nalan Tiryaki;1-D01
+SINIF 12-ATP;Çarşamba;6;Fizik;Nalan Tiryaki;1-D01
+SINIF 12-ATP;Perşembe;1;Kimya;Ayşe Banu Gülhan;1-D01
+SINIF 12-ATP;Perşembe;2;Kimya;Ayşe Banu Gülhan;1-D01
+SINIF 12-ATP;Perşembe;3;Türk Dili ve Edebiyatı;Tülin Aşutli;1-D01
+SINIF 12-ATP;Perşembe;4;Türk Dili ve Edebiyatı;Tülin Aşutli;1-D01
+SINIF 12-ATP;Perşembe;5;Seçmeli Matematik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Perşembe;6;Seçmeli Matematik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Perşembe;7;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D01
+SINIF 12-ATP;Perşembe;8;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D01
+SINIF 12-ATP;Perşembe;9;Türk Dili ve Edebiyatı;Tülin Aşutli;1-D01
+SINIF 12-ATP;Cuma;1;Kimya;Ayşe Banu Gülhan;1-D01
+SINIF 12-ATP;Cuma;2;Kimya;Ayşe Banu Gülhan;1-D01
+SINIF 12-ATP;Cuma;3;Seçmeli Matematik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Cuma;4;Seçmeli Matematik;Belkız Hamedoğlu;1-D01
+SINIF 12-ATP;Cuma;5;Seçmeli Biyoloji;Gül Akın;1-D01
+SINIF 12-ATP;Cuma;6;Seçmeli Biyoloji;Gül Akın;1-D01
+SINIF 12-ATP;Cuma;7;Türk Dili ve Edebiyatı;Ayşe Gül Karamanlı;1-D01
+SINIF 12-ATP;Cuma;8;Fizik;Nalan Tiryaki;1-D01
+SINIF 12-ATP;Cuma;9;Fizik;Nalan Tiryaki;1-D01
